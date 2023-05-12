@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491213219319",
+    "project_id": "coinflipper-8a893",
+    "storage_bucket": "coinflipper-6a893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491213219318:android:3088aa08bf0014097913d7",
+        "android_client_info": {
+          "package_name": "com.example.tosscoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491213219318-tp8aaf4r4sv3ml4qi19igeh229u7701t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AvCzeMP-uy0DBpT6e08i1htryHEgYV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491213219318-tp8aaf4r4sv3ml4qi19igeh229u7701t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
